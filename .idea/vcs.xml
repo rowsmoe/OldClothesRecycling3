@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$USER_HOME$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OldclothesRecycling" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/app/src/main/java/com/apress/gerber/oldclothesrecycling" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gradle" vcs="Git" />
   </component>
